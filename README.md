@@ -2,6 +2,80 @@
 
 # Assignment  7- Model Explanability
 
+### Output:
+**GradCam**
+
+
+![](images/output/_0/_dog-2.jpg_gradcam.png)
+
+**GradCam++**
+
+
+![](images/output/_0/_dog-2.jpg_gradcam_plus_plus.png)
+
+**Gradient SHAP**
+
+
+![](images/output/_0/_dog-2.jpg_gradient_shap.png)
+
+**IG**
+
+
+![](images/output/_0/_dog-2.jpg_ig.png)
+
+**IG w/ Noise Tunnel**
+
+
+![](images/output/_0/_dog-2.jpg_ig_with_noisetunnel.png)
+
+**Robust Perturbation**
+
+![](images/output/_0/_dog-2.jpg_min_robust_perturbation.png)
+
+**Occlusion**
+
+
+![](images/output/_0/_dog-2.jpg_occlusion.png)
+
+**Captum Model Robustness**
+
+
+![](images/output/_0/_dog-2.jpg_org_img.png)
+
+**Perturbation**
+
+
+![](images/output/_0/_dog-2.jpg_perturbed_image.png)
+
+**Salinecy1**
+
+
+![](images/output/_0/_dog-2.jpg_saliency1.png)
+
+**Saliency2**
+
+
+![](images/output/_0/_dog-2.jpg_saliency2.png)
+
+**SHAP**
+
+
+![](images/output/_0/_dog-2.jpg_shap.png)
+
+**PGD**
+
+
+![](images/output/_0/_dog-2.jpgperturbed_pgd.png)
+
+
+
+
+
+
+
+
+
+
 
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
